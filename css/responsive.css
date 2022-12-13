@@ -1,0 +1,27 @@
+@media (max-width: 575px) {
+    .title h1 {
+        font-size: 18px;
+    }
+
+    .gallery .flag {
+        height: 350px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .title h1 {
+        font-size: 21px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .title h1 {
+        font-size: 24px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .title h1 {
+        font-size: 27px;
+    }
+}
